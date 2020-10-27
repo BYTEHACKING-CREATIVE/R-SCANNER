@@ -1,3 +1,4 @@
+#copyright at BYTEHACKING-CREATIVE
 import socket # for connecting
 from colorama import init, Fore
 
